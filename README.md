@@ -6,9 +6,9 @@ This is an end-to-end ML project, which aims at developing a classification mode
 
 The classifier used for this project is DecisionTreeClassifier.
 
-Deployed in Railway.app.
+<!-- Deployed in Railway.app.
 
-Link to the application : https://ecommerce-customer-churn.up.railway.app/ 
+Link to the application : https://ecommerce-customer-churn.up.railway.app/  -->
 
 ************************************************************************************************************
 
